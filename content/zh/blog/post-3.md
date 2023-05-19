@@ -7,6 +7,7 @@ author : ["Admin"]
 # categories
 categories: ["lifestyle"]
 tags: ["lifestyle" , "fashion"]
+price: ["NT 180"]
 # meta description
 description: "衣索比亞 西達摩G1"
 # save as draft

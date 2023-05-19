@@ -7,6 +7,7 @@ author : ["Admin"]
 # categories
 categories: ["Working days"]
 tags: ["work", "day"]
+price: ["NT 150"]
 # meta description
 description: "瓜地馬拉 安提瓜 花神"
 # save as draft

@@ -7,6 +7,7 @@ author : ["Admin"]
 # categories
 categories: ["tour"]
 tags: ["tour","visit"]
+price: ["NT 180"]
 # meta description
 description: "肯亞AA 祈安布 黑莓皇后"
 # save as draft
