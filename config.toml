@@ -1,6 +1,6 @@
 ######################## default configuration ####################
-
-theme ="twenty-twenty-hugo"
+baseURL ="https://aeicafe.com"
+theme ="pour-over-coffee-hugo"
 defaultContentLanguage = 'zh'
 # post pagination
 paginate = "6"
@@ -12,9 +12,6 @@ disqusShortname = "" # get your shortname form here : https://disqus.com
 disableLanguages = [] # desable language from here
 # google analytics
 googleAnalytics = "" # example : UA-123-45
-
-baseURL = "/" 
-
 
 [languages]
 ############################## ZH config ###############################
@@ -56,24 +53,23 @@ baseURL = "/"
         weight = 6
 
 # subtitles
-[languages.zh.params.event]
-heading="活動"
-heading2 ="店內菜單"
+    [languages.zh.params.event]
+        heading="單品手沖咖啡"
 
-        # footer
-        [languages.zh.params.footer]
+# footer
+    [languages.zh.params.footer]
         title = "關於我們"
         content = "黑客茶舖"
         address = "新北市淡水區北新路117-2號"
-        hours = "Monday–Friday: 12:30AM–9:00PM <br> Saturday & Sunday: 12:30AM–9:00PM"
-        copyright = "Copyright &copy; 2022 黑客茶舖 "
+        hours = "週一至週五: 12:30AM–9:00PM <br> 週末六日: 12:30AM–9:00PM"
+        copyright = "Copyright &copy; 2023 黑客茶舖 "
 
 
 ############################## English config ###############################
 
     [languages.en]
         languageName = 'English'
-        title="hacker's casa de cha"
+        title="Aeicafe"
         contentDir = "content/en"
 
 ############################## navigation en ###############################
@@ -110,11 +106,11 @@ heading2 ="店內菜單"
         weight = 6
 
 # subtitles
-[languages.en.params.event]
-heading="event"
-heading2 ="menus"
+    [languages.en.params.event]
+    heading="Pour over coffee"
+    heading2 ="menus"
 
-        # footer
+# footer
         [languages.en.params.footer]
         title = "about us"
         content = "hacker's casa de cha"
@@ -176,14 +172,6 @@ enable = true
 [[params.gallery.gallery_item ]]
 image = "images/hacha-landscape.png"
 
-
-# footer
-[params.footer]
-title = "關於我們"
-content = "安迪艾倫愛咖啡"
-address = "新北市淡水區北新路117-2號"
-hours = "Monday–Friday: 12:30AM–9:00PM <br> Saturday & Sunday: 12:30AM–9:00PM"
-copyright = "Copyright &copy; 2023 黑客茶舖 "
 
 ############################# social site ########################
 [params.social]
