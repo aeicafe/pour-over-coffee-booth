@@ -1,0 +1,3 @@
+[submodule "themes/pour-over-coffee-hugo"]
+	path = themes/pour-over-coffee-hugo
+	url = git@github.com:aeicafe/pour-over-coffee-hugo.git
