@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL ="https://aeicafe.com"
+baseURL ="/"
 theme ="pour-over-coffee-hugo"
 defaultContentLanguage = 'zh'
 # post pagination
