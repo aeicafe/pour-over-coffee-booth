@@ -5,15 +5,21 @@ image : "images/2020-three-quarters-4.png"
 # author
 author : ["Admin"]
 # categories
-categories: ["tour"]
+categories: ["手沖咖啡"]
 tags: ["tour","visit"]
-price: ["NT 180"]
+price: ["180"]
 # meta description
 description: "肯亞AA 祈安布 黑莓皇后"
 # save as draft
 draft: false
 ---
 
-Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.
+肯亞AA祈安布，被譽為黑莓皇后，是肯亞咖啡中的珍品。這款咖啡以其獨特的風味和口感而聞名於世。品味肯亞AA祈安布咖啡，您將探索一個充滿鮮果風味和令人驚豔的口感的世界。
 
-Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.
+祈安布咖啡散發著濃郁的黑莓香氣，宛如一片果園的芬芳。每一口都帶來清新而明亮的酸度，伴隨著成熟的黑莓和紅莓的甜美。這款咖啡還帶有蜜糖和花香的迷人氣息，為味蕾帶來豐富的層次感。口感饒富活力，充滿著果汁的豐滿與茶葉的輕盈。肯亞AA祈安布咖啡帶給您一種令人陶醉的味覺享受。
+
+這些祈安布咖啡豆來自肯亞高海拔地區的農民們，他們以熱情和講究的農耕方式種植和收穫。這些豆子經過嚴格的選擇和手工處理，確保品質的卓越。每一顆咖啡豆都閃耀著肯亞豐饒土壤的恩賜，呈現出最佳的風味特點。
+
+品味肯亞AA祈安布咖啡，就像是一場對肯亞咖啡的奇妙冒險。讓您的味蕾迷失於黑莓皇后的芳香和風味之中，享受這個令人垂涎的咖啡旅程。無論是早晨的第一杯，還是下午休憩的一刻，這杯肯亞AA祈安布咖啡將為您帶來無盡的愉悅和滿足。
+
+來，與我們一同品味肯亞AA祈安布咖啡，讓咖啡的魔力帶您進入這片迷人的黑莓王國。

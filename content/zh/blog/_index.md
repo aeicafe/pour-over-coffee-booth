@@ -1,7 +1,7 @@
 ---
-title: "Blog"
+title: "coffee"
 # meta description
-description: "This is meta description"
+description: "This is for coffee"
 # save as draft
 draft: false
 ---

@@ -5,15 +5,21 @@ image : "images/2020-three-quarters-1.png"
 # author
 author : ["Admin"]
 # categories
-categories: ["Working days"]
-tags: ["work", "day"]
-price: ["NT 150"]
+categories: ["手沖咖啡"]
+tags: ["瓜地馬拉", "花神"]
+price: ["150"]
 # meta description
 description: "瓜地馬拉 安提瓜 花神"
 # save as draft
 draft: false
 ---
 
-Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.
+瓜地馬拉，被譽為咖啡的花神。這個美麗的中美洲國家以其出色的咖啡產地聞名於世。品味瓜地馬拉的咖啡，您將享受到獨特的風味和令人著迷的口感。
 
-Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.
+來自瓜地馬拉的咖啡以其花香四溢和細膩的風味而聞名。每一杯都像是花園中盛開的花朵，散發著迷人的香氣。在您的舌尖上，您將感受到淡淡的可可和堅果的香甜，伴隨著微妙的柑橘和葡萄酸度。這種獨特的風味組合在口中交織出一個充滿層次的咖啡體驗。
+
+瓜地馬拉的咖啡由於其優質的種植和精心的加工而成。每一顆咖啡豆都經過選擇和手工處理，確保品質的卓越。瓜地馬拉的農夫們以其對咖啡的熱愛和傳統的耕作方法，將這片富饒土壤的恩賜轉化為令人驚艷的咖啡。
+
+品味瓜地馬拉的咖啡，是一場真正的咖啡冒險。讓您的味蕾遨遊於這片富饒的土地，享受咖啡的花神之旅。無論是在早晨醒來的第一杯，還是下午休憩的一刻，這杯瓜地馬拉的咖啡將為您帶來無盡的愉悅和滿足。
+
+來，與我們一同探索瓜地馬拉的花神之味，讓咖啡帶您遨遊於無限的美好。

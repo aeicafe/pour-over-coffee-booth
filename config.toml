@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL ="/"
+baseURL ="https://pour-over-coffee.netlify.app/"
 theme ="pour-over-coffee-hugo"
 defaultContentLanguage = 'zh'
 # post pagination
