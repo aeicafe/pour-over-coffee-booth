@@ -6,7 +6,7 @@ media_folder: static/images
 public_folder: /images
 collections:
     # zh editor exam 
-  - name: 'zh-menus'
+  - name: 'zh-menus-coffee'
     label: '咖啡菜單'
     folder: 'content/zh/coffee'
     create: true
@@ -25,7 +25,7 @@ collections:
     # adding a meta object with a path property allows editing the path of entries
     # moving an existing entry will move the entire sub tree of the entry to the new location
 
-  - name: 'zh-menus'
+  - name: 'zh-menus-cake'
     label: '蛋糕菜單'
     folder: 'content/zh/cake'
     create: true
