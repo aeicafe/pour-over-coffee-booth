@@ -11,7 +11,7 @@ price: ["180"]
 # meta description
 description: "肯亞AA 祈安布 黑莓皇后"
 # save as draft
-draft: false
+draft: true
 ---
 
 肯亞AA祈安布，被譽為黑莓皇后，是肯亞咖啡中的珍品。這款咖啡以其獨特的風味和口感而聞名於世。品味肯亞AA祈安布咖啡，您將探索一個充滿鮮果風味和令人驚豔的口感的世界。

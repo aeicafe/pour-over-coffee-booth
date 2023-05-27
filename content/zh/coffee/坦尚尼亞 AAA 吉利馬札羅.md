@@ -1,13 +1,13 @@
 ---
 title: "坦尚尼亞 AAA 吉利馬札羅"
 date: 2020-03-14T15:40:24+06:00
-image : "images/2020-three-quarters-3.png"
+image : "images/jrey.jpg"
 # author
 author : ["Admin"]
 # categories
 categories: ["手沖咖啡"]
 tage: ["坦尚尼亞","AAA", "吉利馬札羅"]
-price: ["150"]
+price: ["120"]
 # meta description
 description: "坦尚尼亞 AAA 吉利馬札羅"
 # save as draft

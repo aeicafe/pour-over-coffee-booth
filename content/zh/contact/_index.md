@@ -1,10 +1,21 @@
 ---
-title: "Contact"
+title: "QRCODE分享功能"
 bg_image: "images/2020-landscape-2.png"
 # meta description
-description: "This is meta description"
+description: "用 QRcode 分享"
+image : "images/netaeicafe.png"
 # save as draft
 draft: false
 ---
 
-This is a page with some basic contact information, such as an address and phone number. You might also try a plugin to add a contact form.
+這是一張簡單又有趣的圖片，讓我來為你介紹一下。
+
+這張圖片是一個菜單網站上的QRCODE分享功能。QRCODE是一種二維碼，透過掃描它，你可以輕鬆地分享這個菜單網站給你的家人和朋友。
+
+這是一個很有趣的功能！當你和家人一起去餐廳時，你可以拿出你的手機或平板電腦，打開掃描器應用程式，並對準這個圖片。當你掃描QRCODE時，它會帶你進入菜單網站，展示出餐廳的各種美味菜品。
+
+你可以探索這個菜單網站，看看有哪些好吃的食物可供選擇。你可以點擊菜單上的圖片，看看這些食物的照片和描述。還可以找到你最喜歡的食物，並告訴爸爸媽媽你想要點什麼。他們也可以和你分享他們的選擇，一起討論並做出最終的決定。
+
+這個分享功能使得和家人一起選擇餐點變得更加有趣和方便。你可以主動參與到選擇食物的過程中，並享受與家人一起探索美食的時光。
+
+這個QRCODE分享功能讓你更加輕鬆地發現和選擇你喜愛的菜品，並為你的用餐體驗增添樂趣。希望你使用這個功能時玩得開心！
