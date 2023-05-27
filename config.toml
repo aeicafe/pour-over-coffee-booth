@@ -55,6 +55,7 @@ googleAnalytics = "" # example : UA-123-45
 # subtitles
     [languages.zh.params.event]
         heading="單品手沖咖啡"
+        subheading="下午茶蛋糕"
 
 # footer
     [languages.zh.params.footer]
