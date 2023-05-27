@@ -7,7 +7,7 @@ public_folder: /images
 collections:
     # zh editor exam 
   - name: 'zh-menus-coffee'
-    label: '咖啡菜單'
+    label: '咖啡 菜單'
     folder: 'content/zh/coffee'
     create: true
     editor:
@@ -32,8 +32,8 @@ collections:
     editor:
      preview: false   
     slug: '{{slug}}'
-    fields: 
-      - { label: '標題', name: 'title', widget: 'string' }
+    fields:
+          - { label: '標題', name: 'title', widget: 'string' }
       - { label: '發布日期', name: 'date', widget: 'datetime' }
       - { label: '種類', name: 'categories', widget: 'list' }
       - { label: '標籤', name: 'tags', widget: 'list' }
